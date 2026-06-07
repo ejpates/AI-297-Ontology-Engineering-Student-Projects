@@ -9,3 +9,4 @@ Repository for AI 297 Ontology Engineering Projects handled by Miguel Francisco 
 
 | Sem/AY | Project Title | Project Description | Group Members | Test Link (if available) |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 2nd Sem AY 2025-2026 | [OA-RAG Ontology: Stardew Valley Ontology Augmented Retrieval-Augmented Generation](https://github.com/ejpates/oa-rag-stardew) | Ontology-assisted retrieval-augmented generation system for Stardew Valley that combines RDF facts, graph retrieval, vector search, and local LLM-based answer generation. | Ely Jun Pates, Keith Evan Bocian, Arvir Jane Redondo | N/A |
